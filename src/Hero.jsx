@@ -35,7 +35,7 @@ const Hero = () => {
           className="wrapper"
         >
           <SwiperSlide className="slide">
-            <img src="/public/images/z3.jpg" alt="Campus View" className="image" />
+            <img src="/images/z3.jpg" alt="Campus View" className="image" />
             <div className="image-data">
               <span className="text">Empowering Students Through Excellence</span>
               <h2 className="title">Amar Singh College</h2>
@@ -44,7 +44,7 @@ const Hero = () => {
           </SwiperSlide>
 
           <SwiperSlide className="slide">
-            <img src="/public/images/asc3.jpeg" alt="College Library" className="image" />
+            <img src="/images/asc3.jpeg" alt="College Library" className="image" />
             <div className="image-data">
               <span className="text">Modern Facilities & Enriched Learning Environment</span>
               <h2 className="title">Shaping the Future</h2>
@@ -53,7 +53,7 @@ const Hero = () => {
           </SwiperSlide>
 
           <SwiperSlide className="slide">
-            <img src="/public/images/asc4.jpg" alt="Seminar Event" className="image" />
+            <img src="/images/asc4.jpg" alt="Seminar Event" className="image" />
             <div className="image-data">
               <span className="text">Fostering Innovation, Research & Growth</span>
               <h2 className="title">Where Ideas Take Flight</h2>
